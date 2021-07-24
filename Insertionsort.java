@@ -54,6 +54,7 @@ public class Practice {
         System.out.println();
         System.out.println("Insertion sort Descending : ");
         InsertionSortDesc(array, size);
+        System.out.println("Insertion sort Ascending : ");
         InsertionSortAsc(array, size);
     }
 
