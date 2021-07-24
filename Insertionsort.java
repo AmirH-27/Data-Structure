@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice {
+public class InsertionSort {
     static void InsertionSortDesc(int[] array,int size) {
         for (int i = 0; i < size; i++) {
             int temp = array[i];
